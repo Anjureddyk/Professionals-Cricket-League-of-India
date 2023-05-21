@@ -8,4 +8,4 @@ The Dash API created in this project provides a user-friendly interface for expl
 
 The repository also includes scripts for data preprocessing and cleaning, as well as the Python code for creating the Dash API. The project is open-source, and users are encouraged to contribute to the repository by suggesting improvements, fixing bugs, or adding new features.
 
-Overall, this IPL data analysis project provides a valuable resource for cricket enthusiasts and analysts alike, enabling them to gain insights into the performance of IPL teams and players over the years.
+This IPL data analysis project provides a valuable resource for cricket enthusiasts and analysts alike, enabling them to gain insights into the performance of IPL teams and players over the years.
